@@ -1,0 +1,23 @@
+{
+  "name": "demo-cache",
+  "version": "1.0.0",
+  "description": "This is a demo on how to use the cache actions on GitHub Workflows to cache dependancies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfraileorg/demo-cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfraileorg/demo-cache/issues"
+  },
+  "homepage": "https://github.com/lfraileorg/demo-cache#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "redis": "^4.0.0"
+  }
+}
