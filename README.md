@@ -1,4 +1,4 @@
-# Caching dependencies in workflows 
+# Caching dependencies in workflows demo
 
 This is a demo on how to use the cache actions on GitHub Workflows to cache dependancies.
 
