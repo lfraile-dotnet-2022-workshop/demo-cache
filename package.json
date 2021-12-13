@@ -1,5 +1,5 @@
 {
-  "name": "demo-cache",
+  "name": "demo-cache demo",
   "version": "1.0.0",
   "description": "This is a demo on how to use the cache actions on GitHub Workflows to cache dependancies.",
   "main": "index.js",
